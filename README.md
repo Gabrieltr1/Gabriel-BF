@@ -8,8 +8,8 @@
 </p>
 
 <!-- **Tecnologias:**
-- 🖥️ Experiência:
-<br>
+- 🖥️ Experiência: HTML
+ <br>
  <strong>Contatos:</strong> -->
  
  <!--    - Discord: **zTr1#6237**
