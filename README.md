@@ -1,4 +1,4 @@
-<img width=100% src="https://user-images.githubusercontent.com/125428490/230162241-6025e580-c4ef-40ee-b592-f857fad4e142.png"/>
+<img width=100% src="https://user-images.githubusercontent.com/125428490/230163827-d20f3bd3-bb39-4380-af87-7dfbd5c45547.png"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=Hello...+My+name+is+Gabriel!;I'm+18+years+old;I'm+Brazilian;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
