@@ -34,3 +34,4 @@
 <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/gabriel-bolonhez-402394254/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=red&color=black" target="_blank"></a>
 <a href = "https://Github.com/Gabrieltr1"><img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=react&logoColor=red&color=black" target="_blank"></a>
+<a href ="https://www.instagram.com/gabrieltr1"><img src="https://img.shields.io/badge/-Instagram-%231DA1F2?style=for-the-badge&logo=Instagram&logoColor=red&color=black" target="_blank"></a>
