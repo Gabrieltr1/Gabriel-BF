@@ -14,7 +14,7 @@
  
  <!--    - Discord: **zTr1#6237**
    - Email: **gbbolonhez@gmail.com**
-   - LinkedIn: **https://www.linkedin.com/in/jo%C3%A3o-vitor-ts/** -->
+   - LinkedIn: **https://www.linkedin.com/in/gabriel-bolonhez-402394254/** -->
    
    <div align="center">
   <a href="https://github.com/Gabriel-BF">
