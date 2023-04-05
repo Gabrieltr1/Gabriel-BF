@@ -1,4 +1,4 @@
-<img width=100% src="![image](https://user-images.githubusercontent.com/125428490/230162241-6025e580-c4ef-40ee-b592-f857fad4e142.png)/>
+<img width=100% src="https://user-images.githubusercontent.com/125428490/230162241-6025e580-c4ef-40ee-b592-f857fad4e142.png"/>
 
 [![Typing SVG]
 
