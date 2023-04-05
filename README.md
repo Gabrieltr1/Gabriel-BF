@@ -1,6 +1,7 @@
 <img width=100% src=(https://user-images.githubusercontent.com/125428490/230159996-7887c282-9817-4c3e-8f4c-7619445252a6.png)/>
 
-[![Typing SVG
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC3232FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO...+My+name+is+Gabriel!;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src= />
