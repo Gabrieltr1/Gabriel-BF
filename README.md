@@ -30,6 +30,7 @@
   ### Main skills:
   - HTML
   - CSS
+  - Developing others...
   
   ### Contact:
 <a href = "mailto:gbbolonhez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=black" target="_blank"></a>
